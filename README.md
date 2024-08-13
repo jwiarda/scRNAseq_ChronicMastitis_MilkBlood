@@ -9,7 +9,7 @@ Preprint link: *TBD*
 Peer-reviewed publication: *TBD* **this work has not been accepted for peer-reviewed publication and is still subject to alterations**
 
 ## Repository organization
-Scripts are sequentially ordered in number of execution and divided into modular sections. Some later scripts depend on data objects created in preceding scripts in order to execute. The below table gives a general overview of analysis performed in each script.
+Scripts are sequentially ordered in number of execution and divided into modular sections. Some later scripts depend on data objects created in preceding scripts in order to execute. The below table gives a general overview of analysis performed in each step.
 | File Name | Description |
 | --- | --- |
 | 00_ | blah blah |
