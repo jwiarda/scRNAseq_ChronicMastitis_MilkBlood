@@ -8,11 +8,6 @@ Preprint link: *TBD*
 
 Peer-reviewed publication: *TBD* **this work has not been accepted for peer-reviewed publication and is still subject to alterations**
 
-**Additional data associated with this project can also be found as detailed below:**
-* Raw sequencing data can be found at _____
-* Processed data objects can be found at ______
-* Data are available for online interactive query at ______
-
 ## Repository organization
 Scripts are sequentially ordered in number of execution and divided into modular sections. Some later scripts depend on data objects created in preceding scripts in order to execute. The below table gives a general overview of analysis performed in each script.
 | File Name | Description |
@@ -21,3 +16,9 @@ Scripts are sequentially ordered in number of execution and divided into modular
 | 01_ | blah blah |
 | 02_ | blah blah |
 | 03_ | blah blah |
+
+## Additional materials
+**Additional data associated with this project can also be found as detailed below:**
+* Raw sequencing data can be found at _____
+* Processed data objects can be found at ______
+* Data are available for online interactive query at ______
