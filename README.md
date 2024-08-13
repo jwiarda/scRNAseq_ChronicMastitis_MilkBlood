@@ -18,7 +18,7 @@ Scripts are sequentially ordered in number of execution and divided into modular
 | 03_ | blah blah |
 
 ## Additional materials
-**Additional data associated with this project can also be found as detailed below:**
+Additional data associated with this project can also be found as detailed below:
 * Raw sequencing data can be found at _____
 * Processed data objects can be found at ______
 * Data are available for online interactive query at ______
