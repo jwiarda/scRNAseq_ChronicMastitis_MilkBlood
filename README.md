@@ -2,7 +2,7 @@
 
 Scripts found here are associated with single-cell RNA sequencing (scRNA-seq) analysis of the below work:
 
-Wiarda et al. Single-cell RNA sequencing characterization of Holstein cattle blood and milk immune cells during a chronic *Staphylococcus aureus* mastitis infection
+**Wiarda et al. Single-cell RNA sequencing characterization of Holstein cattle blood and milk immune cells during a chronic *Staphylococcus aureus* mastitis infection**
 
 Preprint link: *TBD*
 
