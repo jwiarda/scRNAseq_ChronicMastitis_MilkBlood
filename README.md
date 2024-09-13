@@ -1,3 +1,5 @@
+# Final repo found at https://github.com/SwiVi/scRNAseq_ChronicMastitis_MilkBlood
+
 # Single-cell RNA sequencing characterization of Holstein cattle blood and milk immune cells during a chronic *Staphylococcus aureus* mastitis infection
 
 Scripts found here are associated with single-cell RNA sequencing (scRNA-seq) analysis of the below work:
